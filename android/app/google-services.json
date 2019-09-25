@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "113133562128",
+    "firebase_url": "https://booffe.firebaseio.com",
+    "project_id": "booffe",
+    "storage_bucket": "booffe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:113133562128:android:5739c900eebb8aa8e41d95",
+        "android_client_info": {
+          "package_name": "com.sedjromediasolution.booffe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "113133562128-6nk103kbfhd9jgm9n3ckbvvmd72d4d4m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sedjromediasolution.booffe",
+            "certificate_hash": "c55e17a8980ed83d452b9863dda704f430617e85"
+          }
+        },
+        {
+          "client_id": "113133562128-jia7fr29mqnhqouem846p773nep4kvp0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sedjromediasolution.booffe",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "113133562128-g399jjpjioscdsk7suelbq5vcp5g7j35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sedjromediasolution.booffe",
+            "certificate_hash": "1af0aae4f33be6b8a573cce9bcbd1e2368d6b506"
+          }
+        },
+        {
+          "client_id": "113133562128-7hkt1st9om6m2fu6adhdra6s9qfjonfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_jztW86xPILOoqukh-ryM7O4Ax2ALB5A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "113133562128-7hkt1st9om6m2fu6adhdra6s9qfjonfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "113133562128-sqat7gu3n78g4qafej19p5o4pl664fv8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sedjromediasolution.booffe"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

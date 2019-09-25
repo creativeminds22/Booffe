@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>113133562128-sqat7gu3n78g4qafej19p5o4pl664fv8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.113133562128-sqat7gu3n78g4qafej19p5o4pl664fv8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBXuaLm8gTNmaaM03nxfyzfTCJq0-cbSEQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>113133562128</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.sedjromediasolution.booffe</string>
+	<key>PROJECT_ID</key>
+	<string>booffe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>booffe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:113133562128:ios:161291bdeeeed39fe41d95</string>
+	<key>DATABASE_URL</key>
+	<string>https://booffe.firebaseio.com</string>
+</dict>
+</plist>
