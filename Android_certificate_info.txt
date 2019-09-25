@@ -1,0 +1,9 @@
+certificate password: PKjjui0hygt.mnu@df
+first and last name: Cyrus d'ALMEIDA
+name of organization unit: Booffe
+name of organization: Sedjro Media Solution
+name of city or locality: Haie vive
+name of state: Cotonou
+two-letter country code: bj
+
+key alias: booffe-alias
